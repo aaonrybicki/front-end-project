@@ -1,2 +1,1 @@
-# front-end-project
-this is the project we have 16 hours to complete
+you need to add the values exactly into the search bar with proper names or it will not return a value
